@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mukul Ranjan.
 - 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning Big Data tools, RL.
+- 🌱 I’m currently learning Big Data, RL.
 - 💞️ I’m looking to collaborate on Machine learning projects based on NLP and computer vision.
 - 📫 You can reach me at mukulranjaniitg@gmail.com
 
